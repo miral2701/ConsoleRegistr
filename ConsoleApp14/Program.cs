@@ -70,6 +70,7 @@
                 }
             }
         }
+
         public static void ShowMainMenu(string username)
         {
             Console.Clear();
